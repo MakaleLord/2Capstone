@@ -1,0 +1,24 @@
+<html>
+
+<head>
+    <title>Home</title>
+    <link rel="stylesheet" href="/h24_capstone_07/static/style.css">
+    <link rel="icon" type="image/png" sizes="32x32" href="/h24_capstone_07/static/icon.png">
+</head>
+
+<body>
+
+        <div class="top-header">NASA APP</div>
+
+    
+<h1>HOME</h1>
+ 
+    
+<div class="container">
+  <p>Content coming soon!</p>
+</div>
+
+
+</body>
+
+</html>
